@@ -7,7 +7,6 @@
   "readme": "https://github.com/ExpeditedProjects/hutchdb#readme",
   "logo": "https://hutchdb.com/h-icon.png",
   "runtime": "node",
-  "license": "AGPL-3.0",
   "author": "ExpeditedProjects",
   "env": {},
   "remotes": [
